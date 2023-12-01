@@ -29,8 +29,8 @@ Write a GitHub action that will run your automated test when a PR is opened into
 # Submission Criteria: 
 1. Create a GitHub repository that shows your work clearly.
 2. Add a clear readme that explains the project and how to spin it up.
-3. If you are able to do so, deploy your page to a free web deployment platform such as vercel or netlify.
-4. Share your deployed app URL and GitHub link with our recruiter.
+3. If you are able to do so, deploy your page to a free web deployment platform such as [vercel](https://vercel.com/new) or [netlify](https://www.netlify.com/with/nextjs/#deploy).
+4. Share your GitHub link and deployed app URL with your recruiter.
 
 ## Project Deadline
 Take your time but try to deliver it within 1 week from receiving the assignment brief. Try to complete at least [Task 1](#task-1) within this time. 
