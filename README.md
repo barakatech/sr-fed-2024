@@ -3,7 +3,7 @@
 This assignment is for us to test the abilities of a Senior Front-End web developer.
 
 ## Task 1:
-Build the following page [FIGMA LINK]
+Build the following page [FIGMA LINK](https://www.figma.com/file/SR8UZ7A0HhGMPm1zfBOqwg/baraka---dev?type=design&node-id=0-16173&mode=design&t=87vPsddffqQ3erAm-0)
 
 ### Required Technologies:
 - NextJS
@@ -33,10 +33,10 @@ Write a GitHub action that will run your automated test when a PR is opened into
 4. Share your deployed app URL and GitHub link with our recruiter.
 
 ## Project Deadline
-Take your time but try to deliver it within 1 week time.
+Take your time but try to deliver it within 1 week from receiving the assignment brief. Try to complete at least [Task 1](#task-1) within this time. 
 
 ## Quality Assurance
-What you need to do to get high QA score? Simply answer **Yes** to all these questions:
+What you need to do to get a high QA score? Simply answer **Yes** to all these questions:
 
 ### General
 - Are all requirements set above met?
